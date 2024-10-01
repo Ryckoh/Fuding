@@ -1,3 +1,3 @@
 # Fuding
-<img src="assets/screenshot" />
+<img src="assets/screenshot.png"/>
 LINK: https://ryckoh.github.io/Fuding/
